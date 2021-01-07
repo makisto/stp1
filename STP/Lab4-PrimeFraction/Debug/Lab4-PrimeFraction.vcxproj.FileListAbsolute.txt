@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Lab4-PrimeFraction\Debug\Lab4-PrimeFraction.exe
+C:\Users\user\source\repos\Lab4-PrimeFraction\Debug\Lab4-PrimeFraction.pdb
+C:\Users\user\source\repos\STP\Lab4-PrimeFraction\Debug\Lab4-PrimeFraction.exe
+C:\Users\user\source\repos\STP\Lab4-PrimeFraction\Debug\Lab4-PrimeFraction.pdb

@@ -1,0 +1,5 @@
+﻿  Lab5-ComplexNumber.cpp
+  TComplex.cpp
+  Создание кода...
+C:\Users\user\source\repos\Lab5-ComplexNumber\TComplex.cpp(93): warning C4715: TComplex::angle_rad: значение возвращается не при всех путях выполнения
+  Lab5-ComplexNumber.vcxproj -> C:\Users\user\source\repos\Lab5-ComplexNumber\Debug\Lab5-ComplexNumber.exe

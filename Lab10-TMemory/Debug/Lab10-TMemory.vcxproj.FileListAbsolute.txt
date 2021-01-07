@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\Lab10-TMemory\Debug\Lab10-TMemory.exe
+C:\Users\user\source\repos\Lab10-TMemory\Debug\Lab10-TMemory.pdb

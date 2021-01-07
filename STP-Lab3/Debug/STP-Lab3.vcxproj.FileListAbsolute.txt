@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\STP-Lab3\Debug\STP-Lab3.exe
+C:\Users\user\source\repos\STP-Lab3\Debug\STP-Lab3.pdb

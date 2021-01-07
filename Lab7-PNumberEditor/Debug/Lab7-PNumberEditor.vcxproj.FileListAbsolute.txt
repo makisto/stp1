@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\Lab7-PNumberEditor\Debug\Lab7-PNumberEditor.exe
+C:\Users\user\source\repos\Lab7-PNumberEditor\Debug\Lab7-PNumberEditor.pdb

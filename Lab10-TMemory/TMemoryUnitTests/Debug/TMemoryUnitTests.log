@@ -1,0 +1,30 @@
+﻿  TMemoryUnitTests.cpp
+C:\Users\user\source\repos\Lab10-TMemory\TMemoryUnitTests\TMemoryUnitTests.cpp(56,1): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\user\source\repos\Lab10-TMemory\TMemoryUnitTests\TMemoryUnitTests.cpp(58,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\source\repos\Lab10-TMemory\TMemoryUnitTests\TMemoryUnitTests.cpp(81,1): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\user\source\repos\Lab10-TMemory\TMemoryUnitTests\TMemoryUnitTests.cpp(83,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\source\repos\Lab10-TMemory\TMemoryUnitTests\TMemoryUnitTests.cpp(104,1): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\user\source\repos\Lab10-TMemory\TMemoryUnitTests\TMemoryUnitTests.cpp(105,1): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\user\source\repos\Lab10-TMemory\TMemoryUnitTests\TMemoryUnitTests.cpp(107,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\source\repos\Lab10-TMemory\TMemoryUnitTests\TMemoryUnitTests.cpp(132,1): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+  TMemoryUnitTests.vcxproj -> C:\Users\user\source\repos\Lab10-TMemory\Debug\TMemoryUnitTests.dll

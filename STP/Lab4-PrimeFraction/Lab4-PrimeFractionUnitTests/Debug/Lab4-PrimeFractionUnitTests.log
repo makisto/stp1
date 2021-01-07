@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab4-PrimeFractionUnitTests.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  TFrac.cpp
+  Lab4-PrimeFractionAddUnitTests.cpp
+  Создание кода...
+     Создается библиотека C:\Users\user\source\repos\STP\Lab4-PrimeFraction\Debug\Lab4-PrimeFractionAddUnitTests.lib и объект C:\Users\user\source\repos\STP\Lab4-PrimeFraction\Debug\Lab4-PrimeFractionAddUnitTests.exp
+  Lab4-PrimeFractionUnitTests.vcxproj -> C:\Users\user\source\repos\STP\Lab4-PrimeFraction\Debug\Lab4-PrimeFractionAddUnitTests.dll

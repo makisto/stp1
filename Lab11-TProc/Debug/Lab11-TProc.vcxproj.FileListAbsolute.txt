@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\Lab11-TProc\Debug\Lab11-TProc.exe
+C:\Users\user\source\repos\Lab11-TProc\Debug\Lab11-TProc.pdb

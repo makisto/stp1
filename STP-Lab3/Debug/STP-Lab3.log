@@ -1,0 +1,2 @@
+﻿  MyClass.cpp
+C:\Users\user\source\repos\STP-Lab3\MyClass.cpp(1,10): fatal error C1083: Не удается открыть файл включение: pch.h: No such file or directory,
